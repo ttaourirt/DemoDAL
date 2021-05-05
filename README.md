@@ -1,2 +1,2 @@
 # DemoDAL
-petit exo C# .NET MVC
+Exercise C# .NET MVC
