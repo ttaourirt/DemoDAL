@@ -1,0 +1,12 @@
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\obj\Debug\DemoDAL.csprojAssemblyReference.cache
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\obj\Debug\DemoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\DemoDAL.dll.config
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\DemoDAL.dll
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\DemoDAL.pdb
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\EntityFramework.dll
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\EntityFramework.xml
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\obj\Debug\DemoDAL.csproj.CopyComplete
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\obj\Debug\DemoDAL.dll
+C:\Users\Antoine\source\repos\DemoFormation\DemoDAL\obj\Debug\DemoDAL.pdb

@@ -1,0 +1,2 @@
+2020-11-24 08:00:13,968 [14] ERROR MyLogger [(null)] <(null)> - System.NotImplementedException: La méthode ou l'opération n'est pas implémentée.
+   à TestDemoDAL.TestOthers.TestException() dans C:\Users\Antoine\source\repos\DemoFormation\TestDemoDAL\TestOthers.cs:ligne 16

@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\AppliConsoleDemoDAL.exe.config
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\AppliConsoleDemoDAL.exe
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\AppliConsoleDemoDAL.pdb
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\DemoDAL.dll
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\EntityFramework.dll
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\DemoDAL.pdb
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\DemoDAL.dll.config
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\EntityFramework.xml
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\obj\Debug\AppliConsoleDemoDAL.csprojAssemblyReference.cache
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\obj\Debug\AppliConsoleDemoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\obj\Debug\AppliConsoleDemoDAL.csproj.CopyComplete
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\obj\Debug\AppliConsoleDemoDAL.exe
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\obj\Debug\AppliConsoleDemoDAL.pdb
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\App.config
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antoine\source\repos\DemoFormation\AppliConsoleDemoDAL\bin\Debug\EntityFramework.SqlServer.xml
